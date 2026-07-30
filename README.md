@@ -8,7 +8,7 @@ A responsive frontend clone of the Spotify Web Player built using **HTML5** and 
 
 Example:
 ```
-https://your-demo-link.vercel.app
+https://spotify-clone-nitinjaiswal69.wasmer.app/
 ```
 
 ---
