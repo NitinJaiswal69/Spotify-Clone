@@ -2,42 +2,6 @@
 
 A responsive frontend clone of the Spotify Web Player built using **HTML5** and **CSS3**. This project recreates the look and feel of Spotify's desktop interface, including the sidebar, music library, playlist cards, sticky navigation bar, and music player.
 
-## 🚀 Demo
-
-> Add your live demo link here after deploying.
-
-Example:
-```
-https://spotify-clone-nitinjaiswal69.wasmer.app/
-```
-
----
-
-## 📸 Preview
-
-> Add screenshots of your project here.
-
-Example:
-
-```
-assets/preview.png
-```
-
----
-
-## ✨ Features
-
-- 🎧 Spotify-inspired user interface
-- 📂 Sidebar with navigation and library section
-- 🎵 Recently Played section
-- 🔥 Trending playlists
-- 📊 Featured charts
-- 📌 Sticky top navigation
-- ▶️ Music player layout with playback controls
-- 📱 Responsive design using CSS media queries
-- 🎨 Clean and modern UI
-
----
 
 ## 🛠️ Built With
 
