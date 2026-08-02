@@ -84,7 +84,6 @@ This project is created **only for educational and learning purposes**. It is no
 
 **Nitin**
 
-GitHub: https://github.com/your-username
 
 ---
 
